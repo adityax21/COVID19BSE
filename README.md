@@ -5,6 +5,7 @@ To analyse the impact of COVID19 pandemic on the Indian Stock Mareket considerin
 
 ### Datasets Used
 COVID-19 Global Figures from https://ourworldindata.org/covid-deaths
+
 BSE-500 Index Prices from https://finance.yahoo.com/quote/BSE-500.BO/history/
 
 
